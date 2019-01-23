@@ -100,8 +100,11 @@ public class Ejercicio9 {
             System.out.println("Introduce la presion atmosferica: ");
             presion = lector.nextFloat();
             lector.nextLine();
-            if (presion<900||presion>1100) {
-                System.out.println("ERROR\nVuelve a introducir la presion atmosferica");
+            if (presion<900) {
+                System.out.println("ERROR\nVuelve a introducir la presion atmosferica\n Presion demasiado baja");
+            }
+            if (presion>1100) {
+                System.out.println("ERROR\nVuelve a introducir la presion atmosferica\n Presion demasiado alta");
             }
         }while (presion<900||presion>1100);
 
