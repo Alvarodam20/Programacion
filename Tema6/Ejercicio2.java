@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio2 {
-    public static void main(String[] args) {
+    public Ejercicio2() {
         Scanner lector = new Scanner(System.in);
         float radio;
         float pi = 3.14f;
