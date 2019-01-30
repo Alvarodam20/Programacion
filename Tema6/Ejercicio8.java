@@ -1,4 +1,3 @@
-//ACABAR EJERCICIO!!!!
 public class Ejercicio8 {
     public Ejercicio8() {
         int num1, num2, num3, num4;
@@ -11,7 +10,7 @@ public class Ejercicio8 {
             if (!valido) {
                 System.out.println("Solo numeros de 0 a 9");
             }
-        }
+        }while (!valido);
         do {
             System.out.println("Segundo numero: ");
             num2 = Main.lector.nextInt();
@@ -20,7 +19,7 @@ public class Ejercicio8 {
             if (!valido) {
                 System.out.println("Solo numeros de 0 a 9");
             }
-        }
+        }while (!valido);
         do {
             System.out.println("Tercer numero: ");
             num3 = Main.lector.nextInt();
@@ -29,20 +28,23 @@ public class Ejercicio8 {
             if (!valido) {
                 System.out.println("Solo numeros de 0 a 9");
             }
-        }
+        }while (!valido);
         do {
             System.out.println("Cuarto numero: ");
             num4 = Main.lector.nextInt();
-            Main.lector.nextInt();
+            Main.lector.nextLine();
             valido = num4 >= 0 && num4 <= 9;
             if (!valido) {
                 System.out.println("Solo numeros de 0 a 9");
             }
         }while (!valido);
+        if ( capicua(num1,num2,num3,num4)== true) {
+            System.out.println("Los numeros "+num1 +num2 +num3 +num4+" son capicua.");
+        }else {
+            System.out.println("Los numeros "+num1 +num2 +num3 +num4+" no son capicua.");
+        }
     }
     public static boolean capicua(int a, int b, int c, int d) {
-        if (n1 == n4 && n2 == n3) {
-            return;
-        }
+        return a == d && c == b;
     }
 }

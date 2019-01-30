@@ -1,42 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="6586e3d0-2034-493f-a471-108d4637a55e" name="Default Changelist" comment="" />
+=======
     <list default="true" id="6586e3d0-2034-493f-a471-108d4637a55e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6/Ejercicio9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema6/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema6/Main.java" afterDir="false" />
     </list>
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+=======
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Programacion" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tema6/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+<<<<<<< Updated upstream
+        <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio5.class">
+          <provider selected="true" editor-type-id="text-editor" />
+=======
+        <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+>>>>>>> Stashed changes
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
+=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -47,19 +76,18 @@
         <option value="$PROJECT_DIR$/Tema6/Ejercicio1.java" />
         <option value="$PROJECT_DIR$/Tema6/Ejercicio6.java" />
         <option value="$PROJECT_DIR$/Tema6/Ejercicio7.java" />
-        <option value="$PROJECT_DIR$/Tema6/Main.java" />
         <option value="$PROJECT_DIR$/Tema6/Ejercicio8.java" />
+        <option value="$PROJECT_DIR$/Tema6/Main.java" />
+        <option value="$PROJECT_DIR$/Tema6/Ejercicio9.java" />
       </list>
     </option>
   </component>
+>>>>>>> Stashed changes
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="47" />
     <option name="width" value="1348" />
     <option name="height" value="664" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -67,6 +95,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,13 +112,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,35 +144,39 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1368" height="706" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.50086653" side_tool="true" weight="0.15279879" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913344" weight="0.15279879" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32928944" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24090122" />
+<<<<<<< Updated upstream
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15279879" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32928944" />
-      <window_info anchor="bottom" id="Messages" />
+=======
+      <window_info id="Favorites" order="4" sideWeight="0.50086653" side_tool="true" weight="0.15279879" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913344" visible="true" weight="0.15355521" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< Updated upstream
+      <window_info anchor="bottom" id="TODO" order="6" />
+=======
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41074523" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928944" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -155,6 +187,34 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50086653" side_tool="true" weight="0.15279879" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913344" visible="true" weight="0.15279879" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928944" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.09878683" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928944" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Structure" order="6" weight="0.24962178" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tema4/Ejercicio9.java">
@@ -162,46 +222,17 @@
         <state relative-caret-position="-405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio5.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tema6/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio5.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio5.class">
+      <provider selected="true" editor-type-id="text-editor" />
+=======
         <state>
           <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
         </state>
@@ -223,17 +254,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding>
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tema6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tema6/Ejercicio9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+>>>>>>> Stashed changes
     </entry>
   </component>
 </project>

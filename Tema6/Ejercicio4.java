@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio4 {
-    public Ejercicio4() {
+    public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
         int num1;
         int num2;
