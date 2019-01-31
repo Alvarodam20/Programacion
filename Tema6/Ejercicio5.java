@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio5 {
-    public static void main(String[] args) {
+    public static
         Scanner lector = new Scanner(System.in);
         char letra;
         int veces;
@@ -13,8 +13,9 @@ public class Ejercicio5 {
         lector.nextLine();
         vecesRepetidas(veces, letra);
     }
+
     public static void vecesRepetidas(int veces, char a) {
-        for (int i=1;i <= veces; i++) {
+        for (int i = 1; i <= veces; i++) {
             System.out.print(a);
         }
         System.out.println();

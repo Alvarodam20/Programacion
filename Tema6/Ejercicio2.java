@@ -1,13 +1,10 @@
-import java.util.Scanner;
-
 public class Ejercicio2 {
-    public static void main(String[] args) {
-        Scanner lector = new Scanner(System.in);
+    public static Ejercicio2() {
         float radio;
         float pi = 3.14f;
         System.out.print("Escribe el radio de la circunferencia: ");
-        radio = lector.nextFloat();
-        lector.nextLine();
+        radio = Main.lector.nextFloat();
+        Main.lector.nextLine();
         System.out.println("El area de la circunferencia es: " + area(pi, radio));
         System.out.println("La longitud de la circunferencia es: " + longitud(pi, radio));
     }

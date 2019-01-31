@@ -11,12 +11,13 @@ public class Ejercicio3 {
         System.out.print("Introduce otro numero: ");
         num2 = lector.nextInt();
         lector.nextLine();
-        System.out.println("El numero mas grande es: "+mayor(num1, num2));
+        System.out.println("El numero mas grande es: " + mayor(num1, num2));
     }
+
     public static int mayor(int a, int b) {
-        if (a>b){
+        if (a > b) {
             return a;
-        }else {
+        } else {
             return b;
         }
     }
