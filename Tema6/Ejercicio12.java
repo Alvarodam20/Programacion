@@ -1,10 +1,9 @@
-//ACABAR EJERCICIO!!!
 public class Ejercicio12 {
     public Ejercicio12() {
 
         for (int i = 1; i <= 50; i++) {
             float calificacion = aleatorio(0, 10);
-            System.out.println(calificacion+"  "+notaAbc(calificacion));
+            System.out.printf("%.2f", calificacion);
         }
     }
 
