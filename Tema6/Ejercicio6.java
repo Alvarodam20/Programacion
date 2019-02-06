@@ -16,6 +16,7 @@ public class Ejercicio6 {
 
     public static void vecesimpreso(char letra, int linea, int fila) {
         for (int i = 1; i <= fila; i++) {
+
             for (int j = 1; j <= linea; j++) {
                 System.out.print(letra);
             }
