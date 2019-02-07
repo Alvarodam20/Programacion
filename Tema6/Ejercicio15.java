@@ -22,6 +22,14 @@ public class Ejercicio15 {
         System.out.println("3º Palabra: ");
         larga3 = Main.lector.nextLine();
         palabraLarga();
+        case 2:
+        System.out.println("Introduce 3 palabras: ");
+        System.out.println("1º Palabra: ");
+        corta1 = Main.lector.nextLine();
+        System.out.println("2º Palabra: ");
+        corta2 = Main.lector.nextLine();
+        System.out.println("3º Palabra: ");
+        corta3 = Main.lector.nextLIne();
 
     }
 
