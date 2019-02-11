@@ -3,15 +3,8 @@ public class Ejercicio15 {
     public Ejercicio15() {
         String larga1, larga2, larga3;
         String corta1, corta2, corta3;
-        System.out.println("MENU PRINCIPAL");
-        System.out.println("===============");
-        System.out.println("1. Palabra mas larga.");
-        System.out.println("2. Palabra mas corta.");
-        System.out.println("3. Numero de vocales.");
-        System.out.println("---------------------");
-        System.out.println("0. Salir");
-
-        switch (Main.lector.nextLine())
+        menu();
+        switch (Main.lector.nextLine()) {
 
         case 1:
         System.out.println("Introduce 3 palabras: ");
@@ -29,11 +22,21 @@ public class Ejercicio15 {
         System.out.println("2º Palabra: ");
         corta2 = Main.lector.nextLine();
         System.out.println("3º Palabra: ");
-        corta3 = Main.lector.nextLIne();
+        corta3 = Main.lector.nextLine();
+        case 3: 
+        System.out.println("");
+        }
 
     }
 
-    public static void palabraLarga() {
-        for (int i = 0; i <=)
+    public static void menu() {
+        System.out.println("MENU PRINCIPAL");
+        System.out.println("===============");
+        System.out.println("1. Palabra mas larga.");
+        System.out.println("2. Palabra mas corta.");
+        System.out.println("3. Numero de vocales.");
+        System.out.println("---------------------");
+        System.out.println("0. Salir");
     }
+    
 }
