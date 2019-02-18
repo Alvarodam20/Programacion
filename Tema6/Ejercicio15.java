@@ -1,4 +1,3 @@
-//ACABAR EJERCICIO !!!
 public class Ejercicio15 {
     public Ejercicio15() {
         String palabra1, palabra2, palabra3;
