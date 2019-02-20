@@ -21,6 +21,7 @@ public class Main {
         //Ejercicio14 ejercicio14 = new Ejercicio14();
         //Ejercicio15 ejercicio15 = new Ejercicio15();
         //Ejercicio16 ejercicio16 = new Ejercicio16();
-        Ejercicio17 ejercicio17 = new Ejercicio17();
+        //Ejercicio17 ejercicio17 = new Ejercicio17();
+        Ejercicio18 ejercicio18 = new Ejercicio18();
     }
 }
