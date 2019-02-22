@@ -1,4 +1,4 @@
-//ACABAR EJERCICIO!!!
+//TODO Acabar Ejercicio!!
 public class Ejercicio18 {
     public Ejercicio18() {
         nif();
