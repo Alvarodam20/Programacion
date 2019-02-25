@@ -1,6 +1,7 @@
-public class Ejercicio18 {
-    public Ejercicio18() {
-        nif(dni());
+//TODO Acabar ejercicio!!
+public class Ejercicio19 {
+    public Ejercicio19() {
+
     }
 
     public static String dni() {
@@ -11,11 +12,15 @@ public class Ejercicio18 {
         return dniS;
     }
 
-    public static void nif(String dniS) {
+    public static boolean comprobarDNI(String dniS) {
+        String dniString = "";
+        
+    }
+
+    public static  nif(String dniS) {
         int cambio = Integer.parseInt(dniS);
         String letra = "TRWAGMYFPDXBNJZSQVHLCKE";
         int posicion = cambio % 23;
-        System.out.println("La letra correspondiente es: " + letra.charAt(posicion));
-        System.out.println(dniS + letra.charAt(posicion));
     }
+
 }
