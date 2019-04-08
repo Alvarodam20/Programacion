@@ -1,4 +1,3 @@
-//TODO Acabar ejercicio!!
 public class Ejercicio19 {
     public Ejercicio19() {
 
