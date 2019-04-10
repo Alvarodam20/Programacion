@@ -2,26 +2,34 @@
 public class Ejercicio02 {
 
     public Ejercicio02() {
-        System.out.println(deteccionVocalesConsonantes());
+        deteccionVocalesConsonantes();
     }
 
-    public static int deteccionVocalesConsonantes() {
+    public static void deteccionVocalesConsonantes() {
         String[] palabras = teclado().split(" ");
-        int contador = 0;
+        int contadorv = 0;
+        int contadorc = 0;
         //Este bucle mirará cada palabra.
         for (int i = 0; i <= palabras.length; i++) {
             //Este bucle mirará cada caracter de la palabra.
             for (int j = 0; j <= palabras[i].length(); j++) {
-                if (palabras[i].charAt(j) == 'a' || palabras[i].charAt(j) == 'e' || palabras[i].charAt(j) == 'i' || palabras[i].charAt(j) == 'o' || palabras[i].charAt(j) == 'u') {
-                    contador++;
-                    System.out.println("En total hay: " + contador);
-                } else {
-                    contador++;
-                    System.out.println("En total hay: " + contador);
+                switch (palabras[i].charAt(j)) {
+                    case 'a':
+                        contadorv++;
+                    case 'e':
+                        contadorv++;
+                    case 'i':
+                        contadorv++;
+                    case 'o':
+                        contadorv++;
+                    case 'u':
+                        contadorv++;
+                    default:
+                        contadorc++;
                 }
             }
         }
-        return contador;
+        System.out.print("En total hay: " + contadorv + " vocales. \nY " + contadorc + " consonantes.");
     }
 
     public static String teclado() {
