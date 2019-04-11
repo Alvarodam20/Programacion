@@ -2,34 +2,42 @@
 public class Ejercicio02 {
 
     public Ejercicio02() {
-        deteccionVocalesConsonantes();
+        salida();
     }
 
-    public static void deteccionVocalesConsonantes() {
+    public static int deteccionVocales() {
         String[] palabras = teclado().split(" ");
         int contadorv = 0;
-        int contadorc = 0;
         //Este bucle mirará cada palabra.
-        for (int i = 0; i <= palabras.length; i++) {
+        for (int i = 0; i < palabras.length; i++) {
             //Este bucle mirará cada caracter de la palabra.
-            for (int j = 0; j <= palabras[i].length(); j++) {
-                switch (palabras[i].charAt(j)) {
-                    case 'a':
-                        contadorv++;
-                    case 'e':
-                        contadorv++;
-                    case 'i':
-                        contadorv++;
-                    case 'o':
-                        contadorv++;
-                    case 'u':
-                        contadorv++;
-                    default:
-                        contadorc++;
+            for (int j = 0; j < palabras[i].length(); j++) {
+                if (palabras[i].charAt(j) == 'a' || palabras[i].charAt(j) == 'e' || palabras[i].charAt(j) == 'i' || palabras[i].charAt(j) == 'o' || palabras[i].charAt(j) == 'u') {
+                    contadorv++;
                 }
             }
         }
-        System.out.print("En total hay: " + contadorv + " vocales. \nY " + contadorc + " consonantes.");
+        return contadorv;
+    }
+
+    public static int deteccionConsonantes() {
+        String[] palabras = teclado().split(" ");
+        int contadorc = 0;
+        for (int i = 0; i < palabras.length; i++) {
+            for (int j = 0; j < palabras[i].length(); j++) {
+                if (palabras[i].charAt(j) != 'a' || palabras[i].charAt(j) != 'e' || palabras[i].charAt(j) != 'i' || palabras[i].charAt(j) != 'o' || palabras[i].charAt(j) != 'u') {
+                    contadorc++;
+                }else if (palabras[i].charAt(j) == 'a' || palabras[i].charAt(j) == 'e' || palabras[i].charAt(j) == 'i' || palabras[i].charAt(j) == 'o' || palabras[i].charAt(j) == 'u'){
+                    contadorc--;
+                }
+            }
+        }
+        return contadorc;
+    }
+
+    public static void salida() {
+        System.out.println("En total hay " + deteccionVocales() + " vocales.");
+        System.out.println("En total hay " + deteccionConsonantes() + " consonantes.");
     }
 
     public static String teclado() {
