@@ -1,7 +1,6 @@
 public class Ejercicio02 {
 
     public Ejercicio02() {
-<<<<<<< HEAD
         String frase = "";
         System.out.println("Introduce una frase: ");
         frase = Main.lector.nextLine();
@@ -26,8 +25,6 @@ public class Ejercicio02 {
         }
         System.out.println("En total hay " + contadorv + " vocales.");
         System.out.println("En total hay " + contadorc + " consonantes.");
-=======
-        salida();
     }
 
     public static int deteccionVocales() {
