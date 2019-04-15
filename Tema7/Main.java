@@ -10,6 +10,10 @@ public class Main {
         //Ejercicio02 ejercicio02 = new Ejercicio02();
         //Ejercicio03 ejercicio03 = new Ejercicio03();
         //Ejercicio04 ejercicio04 = new Ejercicio04();
-        Ejercicio05 ejercicio05 = new Ejercicio05();
+        //Ejercicio05 ejercicio05 = new Ejercicio05();
+        //Ejercicio06 ejercicio06 = new Ejercicio06();
+        //Ejercicio07 ejercicio07 = new Ejercicio07();
+        //Ejercicio08 ejercicio08 = new Ejercicio08();
+        Ejercicio09 ejercicio09 = new Ejercicio09();
     }
 }
